@@ -6,21 +6,16 @@ public:
         if(a.length() > b.length()) {
             out = a;
         }
-        else {out = b;}
-        int count = out.length()-1;
-        // Input:    "1010"
-        //                  "1011"
-        // Output:   "1101"
-        // Expected: "10101"
+        else {out = b;} // copy the integers to out, from the highest length
+        int count = out.length()-1; 
         if(a.length() == 1 && b.length() == 1) {
             if(a.at(0) > b.at(0)){
                 out = a;
-            } else {out = b;}
+            } else {out = b;} 
         }
-        int j = b.length() - 1; // b = last character
-        int real_a, real_b;
+        int real_a, real_b; // converting to integer
 
-        for(int i = a.length() - 1; count>=0; count--) {
+        for(int i = a.length() - 1, j = b.length() - 1; count>=0; count--) {
             if(i < 0) {
                 real_a = 0;   
             } else { real_a = a.at(i) - '0'; }
@@ -59,16 +54,13 @@ public:
                     }
                     return out;
                 }
-                if(sum == 1 && out == "0" ||  sum == 1 && out == "1") {
-                    return out;
-                }
-                
-                if(sum == 0 && out == "0") {
-                    
-                    return out;
-                }
+                //if(sum == 1 && out == "0" ||  sum == 1 && out == "1") {
+                //    return out;
+                //}
+                //if(sum == 0 && out == "0") {
+                //    return out;
+                //}
             }
-            
             if(sum == 2 || sum == 3) {
                 total = sum % 2; // 2 % 2 = 0 && 3 % 2 = 1
                 carry = sum / 2; // 2 / 2 = 1 && 3 / 2 = 1
@@ -76,8 +68,6 @@ public:
             if(sum == 1 || sum == 0) {
                 total = sum; 
             }
-            // converting vice versa to char.
-        
             total = total + '0';
             char result = total;
             out.at(count) = result;               
@@ -87,7 +77,4 @@ public:
         return out;
     }
 };
-
-
-
-
+// solved
