@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
+| [1580-shuffle-the-array](https://github.com/Ful41k/code-workout/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Ful41k/code-workout/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
