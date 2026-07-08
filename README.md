@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/Ful41k/code-workout/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ful41k/code-workout/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/Ful41k/code-workout/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
