@@ -15,7 +15,7 @@ public:
         }
         int real_a, real_b; // converting to integer
 
-        for(int i = a.length() - 1, j = b.length() - 1; count>=0; count--) {
+        for(int i = a.length() - 1, j = b.length() - 1; count>=0; count--, j--, i--) {
             if(i < 0) {
                 real_a = 0;   
             } else { real_a = a.at(i) - '0'; }
@@ -54,12 +54,6 @@ public:
                     }
                     return out;
                 }
-                //if(sum == 1 && out == "0" ||  sum == 1 && out == "1") {
-                //    return out;
-                //}
-                //if(sum == 0 && out == "0") {
-                //    return out;
-                //}
             }
             if(sum == 2 || sum == 3) {
                 total = sum % 2; // 2 % 2 = 0 && 3 % 2 = 1
@@ -69,10 +63,8 @@ public:
                 total = sum; 
             }
             total = total + '0';
-            char result = total;
-            out.at(count) = result;               
-            j--;
-            i--;
+            char result = total; // converting to 1 or 0 as character
+            out.at(count) = result; // moving it to result.
         }
         return out;
     }
