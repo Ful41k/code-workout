@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ful41k/code-workout/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ful41k/code-workout/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ful41k/code-workout/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ful41k/code-workout/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ful41k/code-workout/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ful41k/code-workout/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
