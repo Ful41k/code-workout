@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ful41k/code-workout/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Ful41k/code-workout/tree/master/0724-find-pivot-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Ful41k/code-workout/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Ful41k/code-workout/tree/master/2058-concatenation-of-array) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Ful41k/code-workout/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
