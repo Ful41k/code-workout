@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ful41k/code-workout/tree/master/0485-max-consecutive-ones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Ful41k/code-workout/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Ful41k/code-workout/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,12 @@
 | ------- |
 | [0067-add-binary](https://github.com/Ful41k/code-workout/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/Ful41k/code-workout/tree/master/2058-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
