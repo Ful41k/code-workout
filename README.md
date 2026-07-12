@@ -1,3 +1,7 @@
+# Here is my progress on solving problems.
+## I wish I will acquire it!!! (To be master on it.)
+
+
 # handmade-core
 <!---LeetCode Topics Start-->
 # LeetCode Topics
