@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ful41k/code-workout/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/Ful41k/code-workout/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Ful41k/code-workout/tree/master/0724-find-pivot-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -24,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ful41k/code-workout/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ful41k/code-workout/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ful41k/code-workout/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ful41k/code-workout/tree/master/0067-add-binary) |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ful41k/code-workout/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ful41k/code-workout/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
