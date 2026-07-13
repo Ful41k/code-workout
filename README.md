@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ful41k/code-workout/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Ful41k/code-workout/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
