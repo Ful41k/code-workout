@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ful41k/code-workout/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/Ful41k/code-workout/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Ful41k/code-workout/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Ful41k/code-workout/tree/master/0724-find-pivot-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Ful41k/code-workout/tree/master/1580-shuffle-the-array) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ful41k/code-workout/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/Ful41k/code-workout/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ful41k/code-workout/tree/master/0067-add-binary) |
+| [0645-set-mismatch](https://github.com/Ful41k/code-workout/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Ful41k/code-workout/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ful41k/code-workout/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
