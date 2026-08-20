@@ -89,4 +89,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ful41k/code-workout/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Ful41k/code-workout/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Ful41k/code-workout/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
